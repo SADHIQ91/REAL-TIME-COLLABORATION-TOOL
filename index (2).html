@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Realtime Collaboration Tool</title>
+  <script src="/socket.io/socket.io.js"></script>
+</head>
+<body>
+  <h1>📝 Real-time Collaboration Tool</h1>
+  <textarea id="editor" rows="15" cols="60" placeholder="Start typing..."></textarea>
+
+  <script>
+    const socket = io();
+    const editor = document.getElementById("editor");
+
+    // When user types, send changes to server
+    editor.addEventListener("input", () => {
+      socket.emit("text-change", editor.value);
+    });
+
+    // When receiving text from others, update editor
+    socket.on("text-change", (data) => {
+      editor.value = data;
+    });
+  </script>
+</body>
+</html>
