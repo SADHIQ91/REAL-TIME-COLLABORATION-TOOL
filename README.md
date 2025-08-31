@@ -20,6 +20,14 @@ Real-time collaboration tools also support project management. Platforms like Tr
 One of the most important aspects of these tools is cloud-based accessibility. Since files and projects are stored online, team members can access them from anywhere using laptops, tablets, or smartphones. This is especially useful in today’s environment where remote work and hybrid work models have become common. Employees in different cities or countries can collaborate just as effectively as if they were in the same office.
 
 Furthermore, these tools encourage creativity and innovation. Brainstorming features like virtual whiteboards (Miro, MURAL, Microsoft Whiteboard) allow teams to sketch ideas, add sticky notes, and map strategies in real time. Such collaborative spaces mimic in-person brainstorming sessions, making online teamwork more engaging and interactive.
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/20a1cbe5-e940-46b8-916c-9ef261ccbfcb)
+
+![Image](https://github.com/user-attachments/assets/8e897da7-01c6-4227-8759-bdc7f2eda593)
+
+![Image](https://github.com/user-attachments/assets/4edd29a0-6f90-4cae-a4a2-c057c95d0d07)
+
+[index (2).html](https://github.com/user-attachments/files/22065374/index.2.html)
 
 Security is another critical element. Modern collaboration platforms provide encryption, role-based access, and secure authentication to ensure that sensitive data is protected. This gives organizations the confidence to share important files without worrying about unauthorized access.
 
